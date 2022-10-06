@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="PrimeNumber.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PrimeNumber.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
